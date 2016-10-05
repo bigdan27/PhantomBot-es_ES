@@ -1,2 +1,2 @@
 # PhantomBot_ESP
-PhantomBot Spanish Translation
+PhantomBot Spanish of Spain Translation
