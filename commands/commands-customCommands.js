@@ -1,7 +1,7 @@
-$.lang.register('customcommands.add.error', 'that command already exists');
-$.lang.register('customcommands.add.success', 'command !$1 has been created!');
-$.lang.register('customcommands.add.usage', 'usage: !addcom (command) (message)');
-$.lang.register('customcommands.add.commandtag.notfirst', '(command) tag must be the start of a custom command when used.');
+$.lang.register('customcommands.add.error', 'ese comando ya existe');
+$.lang.register('customcommands.add.success', 'el comando !$1 ha sido creado!');
+$.lang.register('customcommands.add.usage', 'uso: !addcom (command) (message)');
+$.lang.register('customcommands.add.commandtag.notfirst', 'la etiqueta (command) debe estar al principio de un comando personalizado cuando es utilizado.');
 $.lang.register('customcommands.add.commandtag.invalid', '(command) tag command does not exist: $1');
 $.lang.register('customcommands.alias.delete.error.alias.404', 'Alias does not exist: !$1');
 $.lang.register('customcommands.alias.delete.success', 'the alias !$1 was successfully deleted!');
